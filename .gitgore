@@ -1,0 +1,14 @@
+# Morterrus releases repo: never commit keys, tokens or server-only data
+*.key
+*.pem
+*.pfx
+*.p12
+*private*
+*secret*
+*token*
+.env
+*.env
+Keys/
+MorterrusKeys/
+HOLD_FACTION_SETTINGS*
+*.ceremony_discard
